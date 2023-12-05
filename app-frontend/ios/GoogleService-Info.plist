@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>45987213741-6c9o09eu19kf30n8o2qqrpv92jmotll5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.45987213741-6c9o09eu19kf30n8o2qqrpv92jmotll5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6aWyU5mR294tfLsrITnSaD40dYK-hKkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>45987213741</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.redbackMobileApp</string>
+	<key>PROJECT_ID</key>
+	<string>redback-operation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>redback-operation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:45987213741:ios:2d32e8062d19305c9b7124</string>
+	<key>DATABASE_URL</key>
+	<string>https://redback-operation-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

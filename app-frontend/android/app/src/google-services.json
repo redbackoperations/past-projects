@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45987213741",
+    "project_id": "redback-operation",
+    "storage_bucket": "redback-operation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45987213741:android:55cf1b6a18b9a2a09b7124",
+        "android_client_info": {
+          "package_name": "com.example.redback_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45987213741-b7h237pk7tlf91uj2unr2sl1frumh1gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlgX1FCfOLTFIa09CmtlG2SrEqC3VzCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45987213741-b7h237pk7tlf91uj2unr2sl1frumh1gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

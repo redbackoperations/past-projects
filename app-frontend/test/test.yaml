@@ -1,0 +1,15 @@
+appId: com.example.redback_mobile_app
+---
+- launchApp
+- tapOn: "Sign In"
+- tapOn: "Email"
+- inputText: "user@user.com"
+- tapOn: "Password"
+- inputText: "user@123"
+- tapOn: "Sign In"
+- tapOn: "Anaerobic Training"
+- tapOn: "Start"
+- waitForAnimationToEnd:
+    timeout: 10000  
+- tapOn: "Finish Workout"
+- tapOn: "Home"
